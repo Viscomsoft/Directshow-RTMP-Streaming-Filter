@@ -1,0 +1,11 @@
+C:\pad\C#2010\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\pad\C#2010\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\pad\C#2010\WindowsFormsApplication1\bin\Debug\DirectShowLib-2005.dll
+C:\pad\C#2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\pad\C#2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\pad\C#2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\pad\C#2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\pad\C#2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\pad\C#2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\installer\RMTPStreamingFilter\C#2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\installer\RMTPStreamingFilter\C#2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
